@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+# Turbofan engine degradation simulation datasets
+data/train_FD001.txt
+data/train_FD002.txt
+data/train_FD003.txt
+data/train_FD004.txt
+data/test_FD001.txt
+data/test_FD002.txt
+data/test_FD003.txt
+data/test_FD004.txt
+data/RUL_FD001.txt
+data/RUL_FD002.txt
+data/RUL_FD003.txt
+data/RUL_FD004.txt
+data/x.txt
